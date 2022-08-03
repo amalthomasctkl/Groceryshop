@@ -1,9 +1,13 @@
+
+/* google font custom link */
+
 @import url('https://fonts.googleapis.com/css2?family=Barlow+Condensed:wght@200&family=Open+Sans&display=swap');
 :root{
     --button:#8cb560;
     --heading:#212529;
     --yellow:#FEBD00;
 }
+/* universal selection */
 *{
     margin: 0;
     padding:0;
